@@ -46,14 +46,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="AboutBox.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="AboutBox.Designer.cs">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChoosePhoto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChoosePhoto.Designer.cs">
+      <DependentUpon>ChoosePhoto.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AboutBox.resx">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChoosePhoto.resx">
+      <DependentUpon>ChoosePhoto.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -62,6 +74,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -75,6 +88,45 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-icon-download-symbol-45162.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\draganddrop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxresdefault.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\triangle-simple-black-white-tile-seamless-pattern-perfect-for-background-or-wallpaper-vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\torii_black_and_white-wallpaper-1920x1080.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1428926-download-hd-wallpaper-black-and-white-1920x1080-for-ipad.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\640px-Cross_red_circle.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e1e4f795f616f54880a204b40859c46d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9884852.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\copy-document-blue-circle-20582.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\copy-document-blue-circle-20582 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\copy-document-blue-circle-20582 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information-button-black-circle-outline-18682.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

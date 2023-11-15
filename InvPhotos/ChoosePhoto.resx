@@ -117,44 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="torii_black_and_white-wallpaper-1920x1080" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\torii_black_and_white-wallpaper-1920x1080.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="1428926-download-hd-wallpaper-black-and-white-1920x1080-for-ipad" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\1428926-download-hd-wallpaper-black-and-white-1920x1080-for-ipad.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="triangle-simple-black-white-tile-seamless-pattern-perfect-for-background-or-wallpaper-vector" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\triangle-simple-black-white-tile-seamless-pattern-perfect-for-background-or-wallpaper-vector.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="e1e4f795f616f54880a204b40859c46d" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\e1e4f795f616f54880a204b40859c46d.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="copy-document-blue-circle-20582 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\copy-document-blue-circle-20582 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="free-icon-download-symbol-45162" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\free-icon-download-symbol-45162.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="640px-Cross_red_circle.svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\640px-Cross_red_circle.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="copy-document-blue-circle-20582 (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\copy-document-blue-circle-20582 (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="9884852" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\9884852.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="copy-document-blue-circle-20582" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\copy-document-blue-circle-20582.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="draganddrop" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\draganddrop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="maxresdefault" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\maxresdefault.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="information-button-black-circle-outline-18682" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\information-button-black-circle-outline-18682.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
+  <metadata name="openFileDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
 </root>
